@@ -18,3 +18,8 @@ version :**0.0.3**  contains:
 app.js file and few folders with specific components for guess number game.
 How to use :
 One can just download/clone the zip and use the code present in app.js and the remaining folder in their react-native setup to check the functionality.
+
+version :**0.0.4**  contains:
+app.js file and few folders with specific components for guess number game with styling & icons.
+How to use :
+One can just download/clone the zip and use the code present in app.js and the remaining folder in their react-native setup to check the functionality.
